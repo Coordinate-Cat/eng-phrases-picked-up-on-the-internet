@@ -16,7 +16,7 @@
 | まじかよ | Shoot |
 | 前に言っただろう | Didn't I tell you? |
 | くそ暑い | It's toasty |
-| くそ寒い | It's chilly |
+| くそ寒い | It's freezing |
 | 努力はした | At least I tried |
 |||
 |||
