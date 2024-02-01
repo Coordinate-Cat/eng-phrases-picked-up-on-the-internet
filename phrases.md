@@ -18,9 +18,9 @@
 | くそ暑い | It's toasty |
 | くそ寒い | It's freezing |
 | 努力はした | At least I tried |
-|||
-|||
-|||
+| ~ください | Let me do|
+| ~ある? | Do you have ~? |
+| 以上です | That's be all |
 |||
 |||
 |||
