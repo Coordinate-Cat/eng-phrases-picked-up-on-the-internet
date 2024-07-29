@@ -21,7 +21,7 @@
 | ~ください | Let me do|
 | ~ある? | Do you have ~? |
 | 以上です | That's be all |
-|||
+| 神のみぞ知る・しらんけど | nobody knows |
 |||
 |||
 |||
