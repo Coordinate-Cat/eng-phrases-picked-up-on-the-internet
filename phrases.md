@@ -32,4 +32,5 @@
 | 改悪, メタクソ化 | enshittification |
 | 興奮、投げる | YEET |
 | オッケー | bet |
-| 普通すぎる | basic |
+| 個性がない | basic |
+| 自慢 | flex |
