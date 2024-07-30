@@ -23,9 +23,13 @@
 | 以上です | That's be all |
 | 神のみぞ知る・しらんけど | nobody knows |
 | 史上最高, 伝説 | the GOAT (greatest of all time) |
-| すごく良い | slaps |
+| すごく良いね | slaps |
+| 盛り上がる | lit |
+| かっこいい | dope |
 | すごく良い曲 | banger |
 | カリスマ | rizz |
+| わかる人にはわかる | IYKYK (if you know you know) |
 | 改悪, メタクソ化 | enshittification |
 | 興奮、投げる | YEET |
 | オッケー | bet |
+| 普通すぎる | basic |
