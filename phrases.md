@@ -36,3 +36,4 @@
 | 自慢 | flex |
 | 小便する、大便する | biological break (only bio ok) |
 | 親友 | besties |
+| 最悪だ | Bloody hell bad |
